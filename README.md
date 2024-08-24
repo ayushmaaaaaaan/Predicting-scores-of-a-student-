@@ -1,1 +1,1 @@
-# Predicting-scores-of-a-student-
+# Predicting_scores_of_a_student
